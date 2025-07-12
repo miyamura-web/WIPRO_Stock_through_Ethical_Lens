@@ -11,6 +11,8 @@ WIPRO's last 10 years stock data collected with the help of Yahoo Finance API, a
 
 Here this is the real time stock data of WIPRO company, which I plotted using yahoo finance API in python library, here I showed some ethical and unethical events of Wipro's. 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Analysis 1 (Time Series) :- 
 
 ### 1. Does unethical events affect stock price? 
