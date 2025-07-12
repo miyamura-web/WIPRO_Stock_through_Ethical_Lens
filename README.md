@@ -39,6 +39,8 @@ Well I plotted 3 ethical events of Wipro's, but after analysing this I did not f
 #### Result - 
 Ethics should not be an option, it should be compulsory for a company to have a gowth in a long term.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Analysis 2 (Sentiment Analysis) :- 
 ![Screenshot 2025-04-30 125133](https://github.com/user-attachments/assets/6f5fdd79-7c3b-4633-8704-df1d46f6cc86)
 
