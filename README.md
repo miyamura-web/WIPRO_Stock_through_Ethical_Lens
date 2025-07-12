@@ -29,6 +29,7 @@ Well after the complaint Wipro disclosed it publicly with the statement "We rece
 #### Result -
 Unethical events do affect stock prices, if it's not handled well internally and externally. But yeah one thing, it's not the only factor which affect stock prices, I just state may be unethical events can be a factor which affect stock prices.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ###  2. Does ethical events affect stock prices?
 ![Screenshot 2025-04-30 124023](https://github.com/user-attachments/assets/918a6908-4acb-4e06-990f-ee2c73ce556f)
