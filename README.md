@@ -57,7 +57,7 @@ So the sentiment analysis revealed that while positive ethical events had mixed 
 Ethical practices and transparency contribute to financial stability and investor confidence.
 Ethics ≠ short-term profits ; Ethics =  long-term values. Unethical events can impact stock prices, especially if they are not handled well internally and externally. However, it is important to note that unethical events are just one of many factors that can influence stock price movements. 
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
