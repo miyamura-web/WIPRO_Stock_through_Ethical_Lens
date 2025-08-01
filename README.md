@@ -1,4 +1,4 @@
-# WIPRO's Stock through Ethical Lens
+# WIPRO's Stock through Ethical 
 
 ## Problem Statement :- 
 So the question is does ethical events affect a company's stock prices. Do you think that ethical or unethical events have an effect on stock movements ? Well with the help of a little bit of time series analysis and sentiment analysis I tried to figure it out. 
